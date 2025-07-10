@@ -51,12 +51,7 @@
                     <div class="contact-method">
                         <span class="icon solid alt fa-phone"></span>
                         <h3>Phone</h3>
-                        <a href="tel: 4065360321">(406) 536-0321</a>
-                        <br /><span>
-                        Weekdays 3pm-9pm <br>
-                        Weekends 10am-10pm <br>
-                        Members only Monday-Thursday
-                        </span>
+                        <a href="tel: 4065360321">(406) 536-0321</a>                        
                     </div>
                 </section>
                 <section>
@@ -66,6 +61,13 @@
                         <span>156 Wildcat Wy<br />
                             Bozeman, MT 59718<br />
                             United States of America</span>
+                    </div>
+                </section>
+                <section>
+                    <div class="contact-method">
+                        <span class="icon solid alt fa-baseball-ball"></span>
+                        Availability changes fast!
+                        <br>Check <a href="https://thelab406.ezfacility.com/Sessions">our booking software</a> for the most up-to-date schedule.
                     </div>
                 </section>
             </section>
