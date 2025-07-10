@@ -99,7 +99,7 @@
                             <img src="images/6.webp" alt="LAB 406 logo" />
                         </span>
                         <header class="major">
-                            <h3><a href="faq.php" class="link">Info and About</a></h3>
+                            <h3><a href="faq.php" class="link">FAQs</a></h3>
                             <p>Frequently asked questions</p>
                         </header>
                     </article>

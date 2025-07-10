@@ -38,8 +38,6 @@
                         
                         <ul class="alt">
                             
-                            
-                            
                             <li><h4>Where are the batting cages?</h4>
                                 Our indoor facility is located at <a href="https://maps.app.goo.gl/i8GX6SHPrrcHndeCA" target="_blank">156 Wildcat Wy</a> in Bozeman, Montana.
                                 Just East of Four Corners, off of Huffine Ln.
@@ -53,13 +51,20 @@
                             </li>
                             <li></li>
                             
+                            <li><h4>Who can use the batting cages?</h4>
+                                Everyone’s welcome at The LAB 406! Whether you're a beginner, a seasoned player, a kid, an adult, or just looking for a fun outing with friends or family—our batting cages are open to all. No experience needed!
+                                <br>We also host social events, parties, and group outings. Reach out to learn more!
+                            </li>
+                            <li></li>
+                            
                             <li><h4>What are batting cages?</h4>
                                 Each of our four indoor batting cages is 60 feet long and includes a pitching machine, L-screen, and tee. Use them for fun with friends and family, parties, birthdays, training sessions, work events, and more!
+                            </li>
                             <li></li>
                             
                             <li><h4>What pitching machines do you use?</h4>
                                 At The LAB 406, we use Hack Attack Baseball and Softball Pitching Machines—high-performance machines that make your visit feel like the real deal. Whether you're here for fun with friends, a party, or a unique date idea, these machines deliver fast, exciting, and super satisfying pitches.
-                                <br>They can throw fastballs, curveballs, sliders, and more, and we offer both automatic and manual feeding options—so you can go hands-free or take turns tossing balls to each other. With a smooth, realistic pitch delivery and speeds up to 100+ MPH (don’t worry, we can tone it down!), the Hack Attack machines make batting cage time way more fun and way less boring.
+                                <br>They can throw fastballs, curveballs, sliders, and more, and we offer both automatic and manual feeding options—so you can go hands-free or take turns feeding balls into the machine. With a smooth, realistic pitch delivery and speeds up to 100+ MPH (don’t worry, we can tone it down!), the Hack Attack machines make batting cage time way more fun and way less boring.
                             </li>
                             <li></li>
                             
@@ -67,23 +72,26 @@
                                 No matter when you book, you’ll never pay more than $35 for a cage at The LAB 406. Pricing varies by number of cages, time slot, and access pass.
                                 <br><a href="https://thelab406.ezfacility.com/Rentals" target="_blank">Book Now!</a>
                             </li>
-                            
                             <li></li>
                             
                             <li><h4>Are batting cages fun?</h4>
-                                Definitely! Batting cages are an exciting way to stay active and have fun—kind of like going bowling or playing mini golf, but with a lot more swings!                            
+                                Definitely! Batting cages are an exciting way to stay active and have fun—kind of like going bowling or playing mini golf, but with a lot more swings!
+                            </li>
                             <li></li>
                             
                             <li><h4>Are batting cages a good exercise?</h4>
                                 Absolutely. Swinging in the cage is a great workout that builds explosive power, improves balance, and boosts stamina.
+                            </li>
                             <li></li>
                             
                             <li><h4>Are batting cages bad for bats?</h4>
-                                Pitching machines can shorten a bat’s lifespan, but high-quality bats are designed to handle the impact better. To protect your gear, The LAB 406 offers rental equipment so you don’t have to risk damaging your own bat.                            
+                                Pitching machines can shorten a bat’s lifespan, but high-quality bats are designed to handle the impact better. To protect your gear, The LAB 406 offers rental equipment so you don’t have to risk damaging your own bat.
+                            </li>
                             <li></li>
                             
                             <li><h4>Are batting cages safe?</h4>
-                                Batting cages have some risks, like any activity. To reduce them, always follow instructions, wear proper gear like a helmet, and stay aware of your surroundings.                            
+                                Batting cages have some risks, like any activity. To reduce them, always follow instructions, wear proper gear like a helmet, and stay aware of your surroundings.
+                            </li>
 
                         </ul>
                     </div>
