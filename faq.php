@@ -41,46 +41,49 @@
                             
                             
                             <li><h4>Where are the batting cages?</h4>
-                                Our indoor facility is located at <a href="https://maps.app.goo.gl/i8GX6SHPrrcHndeCA" target="_blank">156 Wildcat Wy</a> in Bozeman, Montana. We are open to access passes &amp; coaches Monday-Thursday, and open to the publics/walk in’s on the weekends!</li>
-                            
+                                Our indoor facility is located at <a href="https://maps.app.goo.gl/i8GX6SHPrrcHndeCA" target="_blank">156 Wildcat Wy</a> in Bozeman, Montana.
+                                Just East of Four Corners, off of Huffine Ln.
+                            </li>
                             <li></li>
                             
                              <li><h4>When are the batting cages open?</h4>
-                                 The Lab 406 is open Friday from 3pm-10pm and Saturday and Sunday from 12PM-10pm.
-                                 <br>Member hours additionaly include Monday-Thursday from 3pm to 9pm.
-                                <br><a href="https://thelab406.ezfacility.com/Rentals" target="_blank">Book Now!</a></li>
-                            
+                                 Our hours are listed on Apple and Google Maps, but we fill up fast!
+                                 <br>Check our <a href="https://thelab406.ezfacility.com/Rentals" target="_blank">cage rental software</a> to see what times are currently available.
+                                 <br>Pass holders: Please use the <a href="https://thelab406.ezfacility.com/Sessions" target="_blank">pass holder booking schedule</a> to see what's open for you.
+                            </li>
                             <li></li>
                             
                             <li><h4>What are batting cages?</h4>
-                                Our local indoor batting cages provide a 60 foot cage with a complimentary L Screen, Tee, and pitching machine. Utilize the cages for training, or for recreational entertainment with friends and family!</li>
-
+                                Each of our four indoor batting cages is 60 feet long and includes a pitching machine, L-screen, and tee. Use them for fun with friends and family, parties, birthdays, training sessions, work events, and more!
                             <li></li>
                             
-                              <li><h4>How much do batting cages cost?</h4>
-                                Pricing at the Lab 406 is Dependent on the amount of cages, the time slot, and the type of access pass you purchase. You can rent a cage for as low as $35 on weekends!
-                                <br><a href="https://thelab406.ezfacility.com/Rentals" target="_blank">Book Now!</a></li>
+                            <li><h4>What pitching machines do you use?</h4>
+                                At The LAB 406, we use Hack Attack Baseball and Softball Pitching Machines—high-performance machines that make your visit feel like the real deal. Whether you're here for fun with friends, a party, or a unique date idea, these machines deliver fast, exciting, and super satisfying pitches.
+                                <br>They can throw fastballs, curveballs, sliders, and more, and we offer both automatic and manual feeding options—so you can go hands-free or take turns tossing balls to each other. With a smooth, realistic pitch delivery and speeds up to 100+ MPH (don’t worry, we can tone it down!), the Hack Attack machines make batting cage time way more fun and way less boring.
+                            </li>
+                            <li></li>
+                            
+                            <li><h4>How much do batting cages cost?</h4>
+                                No matter when you book, you’ll never pay more than $35 for a cage at The LAB 406. Pricing varies by number of cages, time slot, and access pass.
+                                <br><a href="https://thelab406.ezfacility.com/Rentals" target="_blank">Book Now!</a>
+                            </li>
                             
                             <li></li>
                             
                             <li><h4>Are batting cages fun?</h4>
-                                Batting cages are a great source for active recreational entertainment. A batting cage rental has a similar feel to going bowling with friends or playing a round of mini golf!</li>
-                            
+                                Definitely! Batting cages are an exciting way to stay active and have fun—kind of like going bowling or playing mini golf, but with a lot more swings!                            
                             <li></li>
                             
                             <li><h4>Are batting cages a good exercise?</h4>
-                                Absolutely! Taking a round of swings is great exercise focusing on explosive movements, balance, and stamina.</li>
-                            
+                                Absolutely. Swinging in the cage is a great workout that builds explosive power, improves balance, and boosts stamina.
                             <li></li>
                             
                             <li><h4>Are batting cages bad for bats?</h4>
-                                Pitching machines can wear down the lifespan of a bat; however, high quality bats are built to have more shock absorbance, making them more durable for the machine balls! The Lab 406 offers rentable equipment to utilize and avoid any bat damage!</li>
-                            
+                                Pitching machines can shorten a bat’s lifespan, but high-quality bats are designed to handle the impact better. To protect your gear, The LAB 406 offers rental equipment so you don’t have to risk damaging your own bat.                            
                             <li></li>
                             
-                            <li><h4>Are batting cages dangerous?</h4>
-                                Batting cages can be safe if proper precautions are taken, but like any activity, they do carry some risks. To stay safe, always follow safety instructions, wear appropriate gear (like a helmet), and be mindful of your surroundings.</li>
-                            
+                            <li><h4>Are batting cages safe?</h4>
+                                Batting cages have some risks, like any activity. To reduce them, always follow instructions, wear proper gear like a helmet, and stay aware of your surroundings.                            
 
                         </ul>
                     </div>

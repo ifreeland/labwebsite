@@ -67,13 +67,22 @@
                             <p>Unlock midweek access and discounts</p>
                         </header>
                     </article>
+                    <article>
+                        <span class="image">
+                            <img src="images/summercamp.jpg" alt="Summer softball camp" />
+                        </span>
+                        <header class="major">
+                            <h3><a href="kidscamp.php" class="link">Camps</a></h3>
+                            <p>Find the camp that's right for you, registration open now!</p>
+                        </header>
+                    </article>
                     <article  href="#contact_footer" class="scrolly">
                         <span class="image">
                             <img src="images/blacklightBB.webp" alt="Blacklight baseball" />
                         </span>
                         <header class="major">
                             <h3><a href="#contact_footer" class="scrolly">Party Rentals</a></h3>
-                            <p>Please Contact us to book your event!</p>
+                            <p>Please contact us to book your event!</p>
                         </header>
                     </article>
                     <article href="#contact_footer" class="scrolly">
@@ -83,15 +92,6 @@
                         <header class="major">
                             <h3><a href="#contact_footer" class="scrolly">Team Rentals</a></h3>
                             <p>Ask us about our team passes!</p>
-                        </header>
-                    </article>
-                    <article>
-                        <span class="image">
-                            <img src="images/summercamp.jpg" alt="Summer softball camp" />
-                        </span>
-                        <header class="major">
-                            <h3><a href="kidscamp.php" class="link">Camps</a></h3>
-                            <p>Find the camp that's right for you, registration open now!</p>
                         </header>
                     </article>
                     <article>
