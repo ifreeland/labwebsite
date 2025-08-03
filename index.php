@@ -69,11 +69,11 @@
                     </article>
                     <article>
                         <span class="image">
-                            <img src="images/summercamp.jpg" alt="Summer softball camp" />
+                            <img src="images/camps.webp" alt="Summer softball camp" />
                         </span>
                         <header class="major">
-                            <h3><a href="kidscamp.php" class="link">Camps</a></h3>
-                            <p>Find the camp that's right for you, registration open now!</p>
+                            <h3><a href="kidscamp.php" class="link">Camps &amp; Clinics</a></h3>
+                            <p>Your communities personalized learning experience!</p>
                         </header>
                     </article>
                     <article  href="#contact_footer" class="scrolly">

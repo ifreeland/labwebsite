@@ -37,10 +37,10 @@
                         <img src="images/DSCoverviewcages.webp" alt="" />
                     </span>
                     <header class="major">
-                        <h1>Camps</h1>
+                        <h1>Camps and Clinics</h1>
                     </header>
                     <div class="content">
-                        <p>Join us for one or multiple of our amazing camps!</p>
+                        <p>Contact us today to organize a camp or clinic!</p>
                     </div>
 <!--
                     <div class="row">
@@ -60,7 +60,45 @@
 
             <!-- Main -->
             <div id="main">
+
+                    <section id="one" class="spotlights">
+                    <section>
+                        <a href="generic.html" class="image">
+                            <img src="images/camps.webp" alt="Softball Camp Flyer" data-position="center center" />
+                        </a>
+                        <div class="content">
+                            <div class="inner">
+                                <header class="major">
+                                    <h3>⚾ Camps &amp; Clinics That Go Beyond the Basics</h3>
+                                </header>
+                                <p>
+At The LAB 406, we specialize in running custom baseball and softball camps and clinics for all ages, coaches, and full teams. Whether you're looking to host a one-day clinic or a multi-day team camp, we’ll help you bring it to life with professional instruction, global experience, and a focus on athlete development from the inside out.
+                                </p>
+                                <h4>Why Work With Us?</h4>
+                                <h5>Global Playing &amp; Coaching Experience</h5>
+                                <p>
+Our team has trained and competed around the world, bringing fresh perspectives and top-tier instruction to every event we run.
+                                </p>
+                                <h5>Psychology-Backed Coaching</h5>
+                                <p>
+We’re not just athletes—we’re students of the game and the mind. With backgrounds in psychology, we know how to teach skills and build confidence, focus, and leadership in athletes and coaches.
+                                </p>
+                                <h5>Custom Built for You</h5>
+                                <p>
+We partner with individuals, coaches, teams, and organizations to create camps that match your goals, audience, and space. From youth skills to high-level development, we tailor the experience.
+                                </p>
+                                <p>
+Looking to host a clinic at your facility? Want a custom program for your team or organization? Reach out today and we’ll help you create something athletes (and parents) will never forget!
+                                </p>
+                                <h5>📩 Contact us now to get started!</h5>
+                            </div>
+                        </div>
+                    </section>
+                    </section> 
                 
+                
+                <!--main summer camps content with flyers-->
+                <!--
                 <section id="one" class="spotlights">
 								<section>
 									<a href="generic.html" class="image">
@@ -120,8 +158,9 @@
 									</div>
 								</section>
 							</section>
+       -->
 
-                
+
                 
                 
                 
@@ -138,7 +177,9 @@
                 </section>
                 -->
                 
-                <!--
+                
+                <!--Aubrey Head staff bio-->
+                <!-- 
                 <section id="tree">
                     <div class="inner">
 
