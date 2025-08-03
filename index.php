@@ -82,7 +82,7 @@
                         </span>
                         <header class="major">
                             <h3><a href="#contact_footer" class="scrolly">Party Rentals</a></h3>
-                            <p>Please contact us to book your event!</p>
+                            <p>Please contact us to book your party or birthday!</p>
                         </header>
                     </article>
                     <article href="#contact_footer" class="scrolly">
@@ -90,8 +90,8 @@
                             <img src="images/DSCfrontarea.webp" alt="Overview of front area" />
                         </span>
                         <header class="major">
-                            <h3><a href="#contact_footer" class="scrolly">Team Rentals</a></h3>
-                            <p>Ask us about our team passes!</p>
+                            <h3><a href="#contact_footer" class="scrolly">Team and Corporate Events</a></h3>
+                            <p>Please contact us about our team practices and work parties!</p>
                         </header>
                     </article>
                     <article>
