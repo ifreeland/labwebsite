@@ -37,24 +37,14 @@
                         <img src="images/DSCoverviewcages.webp" alt="" />
                     </span>
                     <header class="major">
-                        <h1>Camps and Clinics</h1>
+                        <h1>.406 Training</h1>
                     </header>
                     <div class="content">
-                        <p>Contact us today to organize a camp or clinic!</p>
+                        <p>Contact us to organize your lesson, camp, or clinic!</p>
+                        <ul class="actions stacked">
+                            <li><a href="#contact_footer" class="button scrolly">Request Training</a></li>
+                        </ul>
                     </div>
-<!--
-                    <div class="row">
-                            <div class="col-4 col-12-medium">
-                                <h2 id="content">Ages 3-6</h2>
-                            </div>
-                            <div class="col-4 col-12-medium">
-                                <h2 id="content">June &amp July</h2>
-                            </div>
-                            <div class="col-4 col-12-medium">
-                                <h2 id="content">Tuesdays &amp Thursdays</h2>
-                            </div>
-                        </div>
--->
                 </div>
             </section>
 
@@ -69,28 +59,24 @@
                         <div class="content">
                             <div class="inner">
                                 <header class="major">
-                                    <h3>⚾ Camps &amp; Clinics That Go Beyond the Basics</h3>
+                                    <h3>⚾ Our Philosophy</h3>
                                 </header>
                                 <p>
 At The LAB 406, we specialize in running custom baseball and softball camps and clinics for all ages, coaches, and full teams. Whether you're looking to host a one-day clinic or a multi-day team camp, we’ll help you bring it to life with professional instruction, global experience, and a focus on athlete development from the inside out.
                                 </p>
                                 <h4>Why Work With Us?</h4>
-                                <h5>Global Playing &amp; Coaching Experience</h5>
-                                <p>
-Our team has trained and competed around the world, bringing fresh perspectives and top-tier instruction to every event we run.
+                                <p>Our team consists of baseball/softball instructors with collegiate, international &amp; professional training experience.
                                 </p>
-                                <h5>Psychology-Backed Coaching</h5>
-                                <p>
-We’re not just athletes—we’re students of the game and the mind. With backgrounds in psychology, we know how to teach skills and build confidence, focus, and leadership in athletes and coaches.
+                                <p>With certifications from USA Baseball, Driveline academy, &amp; degrees in sports psychology/youth development, our staff is more than qualified to be growing the game of baseball and softball in the state of Montana.
                                 </p>
-                                <h5>Custom Built for You</h5>
+                                <h4>Custom Built for You</h4>
                                 <p>
 We partner with individuals, coaches, teams, and organizations to create camps that match your goals, audience, and space. From youth skills to high-level development, we tailor the experience.
                                 </p>
                                 <p>
 Looking to host a clinic at your facility? Want a custom program for your team or organization? Reach out today and we’ll help you create something athletes (and parents) will never forget!
                                 </p>
-                                <h5>📩 Contact us now to get started!</h5>
+                                <h5><a href="#contact_footer" class="scrolly">📩 Contact us now to get started!</a></h5>
                             </div>
                         </div>
                     </section>
@@ -202,7 +188,8 @@ Looking to host a clinic at your facility? Want a custom program for your team o
                 -->
                 
             </div>
-
+            
+        <a id="contact_footer"></a>
         <!-- Import contact and footer -->
         <?php require 'requiredphp/contact_footer.php' ?>
 

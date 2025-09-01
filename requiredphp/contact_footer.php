@@ -42,13 +42,6 @@
             <section class="split">
                 <section>
                     <div class="contact-method">
-                        <span class="icon solid alt fa-envelope"></span>
-                        <h3>Email</h3>
-                        <a href="mailto: info@thelab406.com">info@thelab406.com</a>
-                    </div>
-                </section>
-                <section>
-                    <div class="contact-method">
                         <span class="icon solid alt fa-phone"></span>
                         <h3>Phone</h3>
                         <a href="tel: 4065360321">(406) 536-0321</a>                        
@@ -81,11 +74,10 @@
                 <!--								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>-->
                 <li><a href="https://www.facebook.com/profile.php?id=61569373049994" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
                 <li><a href="https://www.instagram.com/thelab406/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-                <!--								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>-->
                 <!--								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>-->
             </ul>
             <ul class="copyright">
-                <li>&copy; The Lab 406 - 2025</li><li>Design: HTML5 UP</li>
+                <li>&copy; The Lab 406 - 2025</li>
             </ul>
         </div>
     </footer>

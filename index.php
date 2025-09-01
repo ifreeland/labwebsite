@@ -72,8 +72,8 @@
                             <img src="images/camps.webp" alt="Summer softball camp" />
                         </span>
                         <header class="major">
-                            <h3><a href="kidscamp.php" class="link">Camps &amp; Clinics</a></h3>
-                            <p>Your communities personalized learning experience!</p>
+                            <h3><a href="kidscamp.php" class="link"></a>406 Training</h3>
+                            <p>Individual, group, and team coaching! Plus personalized camps and clinics</p>
                         </header>
                     </article>
                     <article  href="#contact_footer" class="scrolly">

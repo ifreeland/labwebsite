@@ -5,7 +5,7 @@
         <ul class="links">
             <li><a href="index.php">Home</a></li>
             <li><a href="memberships.php">Access Passes</a></li>
-            <li><a href="kidscamp.php">Camps</a></li>
+            <li><a href="kidscamp.php">.406 Training</a></li>
             <li><a href="faq.php">FAQ</a></li>
         </ul>
         <ul class="actions stacked">
