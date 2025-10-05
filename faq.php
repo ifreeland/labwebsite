@@ -57,6 +57,11 @@
                             </li>
                             <li></li>
                             
+                            <li><h4>Does The LAB do birthdays or events?</h4>
+                                Absolutly! Find more info about birthdays and private parties <a href="party.php">here</a> or contact us for more details! We also host social and private events.
+                            </li>
+                            <li></li>
+                            
                             <li><h4>What are batting cages?</h4>
                                 Each of our four indoor batting cages is 60 feet long and includes a pitching machine, L-screen, and tee. Use them for fun with friends and family, parties, birthdays, training sessions, work events, and more!
                             </li>

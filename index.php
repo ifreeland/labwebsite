@@ -81,8 +81,8 @@
                             <img src="images/blacklightBB.webp" alt="Blacklight baseball" />
                         </span>
                         <header class="major">
-                            <h3><a href="#contact_footer" class="scrolly">Party Rentals</a></h3>
-                            <p>Please contact us to book your party or birthday!</p>
+                            <h3><a href="party.php" class="link">Party Rentals</a></h3>
+                            <p>Please contact us to book your Birthday or private party!</p>
                         </header>
                     </article>
                     <article href="#contact_footer" class="scrolly">

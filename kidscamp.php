@@ -2,7 +2,7 @@
 <html lang="en-us">
     
     <head>
-        <title>The LAB 406</title>
+        <title>The LAB .406</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="description" content="Sign up for our June and July kids camp for ages 3-6!">
@@ -21,7 +21,7 @@
             <!-- Header -->
             <!-- Note: The "styleN" class below should match that of the banner element. -->
             <header id="header" class="alt style1">
-                <a href="index.php" class="logo"><strong>The Lab</strong> <span>406</span></a>
+                <a href="index.php" class="logo"><strong>The Lab</strong> <span>.406</span></a>
                 <nav>
                     <a href="#menu">Menu</a>
                 </nav>
@@ -62,7 +62,7 @@
                                     <h3>⚾ Our Philosophy</h3>
                                 </header>
                                 <p>
-At The LAB 406, we specialize in running custom baseball and softball camps and clinics for all ages, coaches, and full teams. Whether you're looking to host a one-day clinic or a multi-day team camp, we’ll help you bring it to life with professional instruction, global experience, and a focus on athlete development from the inside out.
+At The LAB .406, we specialize in running custom baseball and softball camps and clinics for all ages, coaches, and full teams. Whether you're looking to host a one-day clinic or a multi-day team camp, we’ll help you bring it to life with professional instruction, global experience, and a focus on athlete development from the inside out.
                                 </p>
                                 <h4>Why Work With Us?</h4>
                                 <p>Our team consists of baseball/softball instructors with collegiate, international &amp; professional training experience.

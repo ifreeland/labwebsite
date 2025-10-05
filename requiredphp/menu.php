@@ -4,6 +4,7 @@
     <nav id="menu">
         <ul class="links">
             <li><a href="index.php">Home</a></li>
+            <li><a href="party.php">Parties</a></li>
             <li><a href="memberships.php">Access Passes</a></li>
             <li><a href="kidscamp.php">.406 Training</a></li>
             <li><a href="faq.php">FAQ</a></li>
