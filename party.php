@@ -33,7 +33,7 @@
             <section id="banner" class="style5">
                 <div class="inner">
                     <span class="image">
-                        <img src="images/blacklightBB.webp" alt="" />
+                        <img src="images/0-party.webp" alt="" />
                     </span>
                     <header class="major">
                         <h1>Birthdays and Private Parties</h1>
@@ -52,27 +52,25 @@
                 
                 <!-- One -->
                 <section id="one" class="spotlights">
-                    <section>
-                        
-                    </section>
                     <div class="inner">
                         <h3>Swing Into Fun!
-                            <br>Gallatin’s Indoor Birthday Party Venue</h3>
+                            <br>At Gallatin’s Indoor Party Venue</h3>
                         <p>Celebrate inside our cages or utilize our outdoor lot as well. No weather worries, just big swings, laughter, and home run fun! Where every birthday is a grand slam!</p>
+                        
+                         <!-- Blockquote -->
+                        <blockquote>The space was big enough for the best work party ever! I had so much fun, and the staff was so helpful with setting everything up :) Can't wait to come back! - Eli R. ⭐️⭐️⭐️⭐️⭐️</blockquote>
+                        
+                        <section>
+                            <div class="inner">
+                                <span class="image main">
+                                    <img src="images/blacklightBB.webp" alt="" />
+                                    <img src="images/0-bouncy.webp" alt="" />
+                                    <img src="images/0-party.webp" alt="" />
+                                </span>
+                            </div>
+                        </section>
                     </div>
-                    
-                    
-                    <section>
-                        <div class="inner">
-                            <span class="image main">
-                                <img src="images/blacklightBB.webp" alt="" />
-                                <img src="images/camps.webp" alt="" />
-                            </span>
-                        </div>
-                    </section>
                 </section>
-                
-                
             </div>
             
             <a id="contact_footer"></a>

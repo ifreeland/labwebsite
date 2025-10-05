@@ -50,7 +50,7 @@
                 <section id="one" class="tiles">
                     <article>
                         <span class="image">
-                            <img src="images/DSChittingplate.webp" alt="Player at batting plate" />
+                            <img src="images/0-balls.webp" alt="Player at batting plate" />
                         </span>
                         <header class="major">
                             <h3><a href="https://thelab406.ezfacility.com/Rentals" class="link">Rent a Cage</a></h3>
@@ -60,7 +60,7 @@
                     </article>
                     <article>
                         <span class="image">
-                            <img src="images/DSCoverviewcages.webp" alt="Overview of batting cages" />
+                            <img src="images/0-ressler.webp" alt="Overview of batting cages" />
                         </span>
                         <header class="major">
                             <h3><a href="memberships.php" class="link">Access Passes</a></h3>
@@ -87,7 +87,7 @@
                     </article>
                     <article href="#contact_footer" class="scrolly">
                         <span class="image">
-                            <img src="images/DSCfrontarea.webp" alt="Overview of front area" />
+                            <img src="images/0-sunset.heic" alt="Overview of front area" />
                         </span>
                         <header class="major">
                             <h3><a href="#contact_footer" class="scrolly">Team and Corporate Events</a></h3>
@@ -96,7 +96,7 @@
                     </article>
                     <article>
                         <span class="image">
-                            <img src="images/6.webp" alt="LAB 406 logo" />
+                            <img src="images/0-night.webp" alt="LAB 406 logo" />
                         </span>
                         <header class="major">
                             <h3><a href="faq.php" class="link">FAQs</a></h3>
