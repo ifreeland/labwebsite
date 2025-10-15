@@ -33,12 +33,12 @@
                         <h1>Welcome to The Lab 406</h1>
                     </header>
                     <div class="content">
-                        <p>Gallatins Premiere Batting Facility<br />
-                        and sports center.</p>
-                        <ul class="actions stacked">
-                            <li><a href="https://thelab406.ezfacility.com/Rentals" class="button scrolly">Public booking</a></li>
-                            <li><a href="https://thelab406.ezfacility.com/Sessions" class="button scrolly">Passholder booking</a></li>
-                        </ul>
+                        <p>Gallatins Premiere Batting Facility and sports center.</p>
+                    </div>
+                    <div class="content align-center">
+                        <div class="col-12 col-12-small"><a href="https://thelab406.ezfacility.com/Rentals" class="button ">Public booking</a></div>
+                        <div class="col-12 col-12-small"><a href="https://thelab406.ezfacility.com/Sessions" class="button ">Passholder booking</a></div>
+                        <div class="col-12 col-12-small"><a href="https://thelab406.ezfacility.com/OnlineRegistration" class="button ">Camps &amp; Leagues</a></div>
                     </div>
                 </div>
             </section>
