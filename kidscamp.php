@@ -87,7 +87,7 @@ Looking to host a clinic at your facility? Want a custom program for your team o
                 <!--
                 <section id="one" class="spotlights">
 								<section>
-									<a href="generic.html" class="image">
+									<a href="#" class="image">
 										<img src="images/2025sbcamp.jpg" alt="Softball Camp Flyer" data-position="center center" />
 									</a>
 									<div class="content">
@@ -106,7 +106,7 @@ Looking to host a clinic at your facility? Want a custom program for your team o
 									</div>
 								</section>
 								<section>
-									<a href="generic.html" class="image">
+									<a href="#" class="image">
 										<img src="images/2025bbcamp.jpg" alt="Baseball Camp Flyer" data-position="top center" />
 									</a>
 									<div class="content">
@@ -125,7 +125,7 @@ Looking to host a clinic at your facility? Want a custom program for your team o
 									</div>
 								</section>
 								<section>
-									<a href="generic.html" class="image">
+									<a href="#" class="image">
 										<img src="images/2025kidcamp.jpg" alt="Kids Camp Flyer" data-position="25% 25%" />
 									</a>
 									<div class="content">
