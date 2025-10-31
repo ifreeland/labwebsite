@@ -36,7 +36,7 @@
                         <img src="images/0-party.webp" alt="" />
                     </span>
                     <header class="major">
-                        <h1>Birthdays and Private Parties</h1>
+                        <h1>Birthday Parties and Events</h1>
                     </header>
                     <div class="content">
                         <p>Contact us to book your next party!</p>
@@ -69,6 +69,7 @@
                                 </span>
                             </div>
                         </section>
+                        <p>Still have questions about Bozeman birthday parties? Contact us below!</p>
                     </div>
                 </section>
             </div>
