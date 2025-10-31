@@ -2,7 +2,7 @@
 <html lang="en-us">
 
     <head>
-        <title>The LAB 406</title>
+        <title>The LAB 406 - Passes</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="description" content="Our Access Passes unlock midweek access and discounts!">

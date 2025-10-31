@@ -2,10 +2,10 @@
 <html lang="en-us">
     
     <head>
-        <title>The LAB 406</title>
+        <title>The LAB 406 - Parties and Events</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <meta name="description" content="Check out what is happening at our facility!">
+        <meta name="description" content="Book you birthday party or private event with us today! Located between Four corners and Bozeman, MT we are Gallatin's indoor party venue!">
         
         <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
         

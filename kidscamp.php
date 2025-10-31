@@ -2,10 +2,10 @@
 <html lang="en-us">
     
     <head>
-        <title>The LAB .406</title>
+        <title>The LAB .406 - Training</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <meta name="description" content="Sign up for our June and July kids camp for ages 3-6!">
+        <meta name="description" content="Let us help you create something athletes and parents will never forget!">
         
         <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
         

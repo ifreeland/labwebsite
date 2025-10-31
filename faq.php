@@ -2,7 +2,7 @@
 <html lang="en-us">
 
     <head>
-        <title>The LAB 406</title>
+        <title>The LAB 406 - FAQ</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="description" content="Frequently asked questions about indoor batting cages and our facility, answered!">
